@@ -36,5 +36,14 @@ public class Variables {
         System.out.println();
         System.out.println(str2);
 
+        char char1 = 'q';
+        System.out.println(char1);
+
+        String personName = "Ingvarr I";
+        int age = 50;
+
+        System.out.println(personName);
+        System.out.println(age);
+
     }
 }
