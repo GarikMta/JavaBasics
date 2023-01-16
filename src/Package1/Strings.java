@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class Strings {
     public static void main(String[] args) {
-        String s = "Hello world!";
+        String s = "Hello world!";//Методы для работы со строками. String - это класс
         System.out.println(s.equals("Hello world!"));
         System.out.println(s.equals("Hello"));
 
